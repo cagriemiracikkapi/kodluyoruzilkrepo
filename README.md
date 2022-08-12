@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-[Resim](https://github.com/cagriemiracikkapi/kodluyoruzilkrepo/blob/main/Opera%20Anlık%20Görüntü_2022-08-12_193928_github.com.png)
+![Resim](https://github.com/cagriemiracikkapi/kodluyoruzilkrepo/blob/main/Opera%20Anlık%20Görüntü_2022-08-12_193928_github.com.png)
 
 ## Installation
 
